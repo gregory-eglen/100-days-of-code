@@ -4,11 +4,12 @@ The log of my #100DaysOfCode challenge. Started on [January 12th, 2020].
 
 ## Log
 
-### R1D1 [01/20/2020]
+### R1D1 [01/12/2020]
 Added a lot to my portfolio webpage. Added readme.md files to all of my project repositories listed on my portfolio. Fixed some lingering Stripe API errors on my Flixster projects.
 
 Languages used: HTML, CSS, Ruby
 Portfolio link: https://akagfunk.netlify.com/
 Flixster project: https://flixster-greg-eglen.herokuapp.com/
 
-### R1D2
+### R1D2 [01/13/2020]
+Worked on a Trello clone through my boot camp website. Even though I completed the camp, I would like to 100% all the modules on it. Built the front end using JavaScript, then started the rails app version of it which will use the jQuery library to build it out.
