@@ -15,4 +15,4 @@ Flixster project: https://flixster-greg-eglen.herokuapp.com/
 Worked on a Trello clone through my boot camp website. Even though I completed the camp, I would like to 100% all the modules on it. Built the front end using JavaScript, then started the rails app version of it which will use the jQuery library to build it out.
 
 ## R1D3 [01/14/2020]
-Continued working on the Trello clone. Added Ajax requests to the log in and sign up buttons. Watched a good lecture about the event loop by Phillip Roberts.
+Continued working on the Trello clone. Added Ajax requests to the log in and sign up buttons. Watched a good lecture about the event loop by Phillip Roberts. https://youtu.be/8aGhZQkoFbQ
