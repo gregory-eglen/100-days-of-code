@@ -16,3 +16,7 @@ Worked on a Trello clone through my boot camp website. Even though I completed t
 
 ## R1D3 [01/14/2020]
 Continued working on the Trello clone. Added Ajax requests to the log in and sign up buttons. Watched a good lecture about the event loop by Phillip Roberts. https://youtu.be/8aGhZQkoFbQ
+
+
+## R1D4 [01/15/2020]
+Continued to work on the Trello clone. Added messages for response errors. Set up local storage to handle JSON web tokens for user authentication. Set up default configuration for AJAX requests using $.ajaxSetup method. Learned to inspect network traffic using browser DevTools.
