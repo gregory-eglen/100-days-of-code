@@ -20,3 +20,6 @@ Continued working on the Trello clone. Added Ajax requests to the log in and sig
 
 ## R1D4 [01/15/2020]
 Continued to work on the Trello clone. Added messages for response errors. Set up local storage to handle JSON web tokens for user authentication. Set up default configuration for AJAX requests using $.ajaxSetup method. Learned to inspect network traffic using browser DevTools.
+
+## R1D5 [01/17/2020]
+Kept working on Trello clone. Added the boards page and set up authorization checks in JS to make sure a user had to be logged in to view the boards page. Added functional logout button that would redirect to index page. Added a modal library MicroModal to use for adding new boards to the user board page.
