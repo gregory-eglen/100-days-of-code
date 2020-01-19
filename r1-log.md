@@ -23,3 +23,6 @@ Continued to work on the Trello clone. Added messages for response errors. Set u
 
 ## R1D5 [01/17/2020]
 Kept working on Trello clone. Added the boards page and set up authorization checks in JS to make sure a user had to be logged in to view the boards page. Added functional logout button that would redirect to index page. Added a modal library MicroModal to use for adding new boards to the user board page.
+
+## R1D6 [01/18/2020]
+Added functions to display boards on a users page. On the boards page I added functions to display the board's lists. Then added a modal that would create a new list on that board's page.
