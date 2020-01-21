@@ -26,3 +26,6 @@ Kept working on Trello clone. Added the boards page and set up authorization che
 
 ## R1D6 [01/18/2020]
 Added functions to display boards on a users page. On the boards page I added functions to display the board's lists. Then added a modal that would create a new list on that board's page.
+
+## R1D7 [01/20/2020]
+Added function to display a modal to create a card. Then added functions to create a new card, post an ajax request to the database and render the new card on the list.
