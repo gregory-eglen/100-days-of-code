@@ -29,3 +29,6 @@ Added functions to display boards on a users page. On the boards page I added fu
 
 ## R1D7 [01/20/2020]
 Added function to display a modal to create a card. Then added functions to create a new card, post an ajax request to the database and render the new card on the list.
+
+## R1D8 [01/21/2020]
+Added functions to edit a list and delete a list on a board page using ajax requests. Had a session with a career services adviser to give me advice about tailoring resume and cover letter to the employer I am applying for. Did one excersize on codewars.
